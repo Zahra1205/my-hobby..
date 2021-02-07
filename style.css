@@ -1,0 +1,44 @@
+#My Favorite Player {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+
+}
+
+
+
+#Progress {
+    width: 100%;
+    height: 800px;
+    background-color: lightcoral;
+
+}
+
+#Inspiration {
+    width: 100%;
+    height: 800px;
+    background-color: lightcoral;
+
+}
+
+
+}
+
+img {
+    transition: transform .2s;
+    width: 50px;
+    height: 100px
+}
+
+img:hover {
+    transform: scale(0.9);
+    width: 50px;
+    height: 100px
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
